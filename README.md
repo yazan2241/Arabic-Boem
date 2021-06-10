@@ -1,8 +1,6 @@
 # Arabic-Boem
 Generating Arabic poems using Markov chains
 
-
-
 Arabic Poem Generator
 
 #Prerequisites
@@ -16,6 +14,10 @@ Download the Arabic poetry dataset from Kaggle .
 https://www.kaggle.com/ahmedabelal/arabic-poetry
 
 
-Build in
+You can see the whole Solution on my Kaggle account
 
-Python
+Check it from this Link
+
+https://www.kaggle.com/alcoach/arabic-poem-generator
+
+Regards ..
